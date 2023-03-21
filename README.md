@@ -44,3 +44,12 @@ Pętla kończy się, gdy:
 </ul>
 
 Jeśli jeden z graczy wygra, to program, na zakończenie pracy, pisze diagram końcowego stanu planszy i informuje, kto wygrał.
+
+## Compilation and launching:
+
+To ***compile***, type command: ***gcc @opcje -DWIERSZE=val1 -DKOLUMNY=val2 -DDLUGOSC=val3 01_fin.c -o 01***
+
+***opcje*** is a gcc configuration file, included in repo.
+***-DWIERSZE, -DKOLUMNY, -DDLUGOSC*** - integers from 1 to 26 && DLUGOSC <= min(WIERSZE, KOLUMNY)
+
+To launch, type command: ./01
