@@ -45,7 +45,7 @@ Pętla kończy się, gdy:
 
 Jeśli jeden z graczy wygra, to program, na zakończenie pracy, pisze diagram końcowego stanu planszy i informuje, kto wygrał.
 
-## Compilation and launching:
+### Compilation and launching:
 
 To ***compile***, type command: ***gcc @opcje -DWIERSZE=val1 -DKOLUMNY=val2 -DDLUGOSC=val3 01_fin.c -o 01***
 
