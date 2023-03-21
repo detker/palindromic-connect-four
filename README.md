@@ -4,6 +4,7 @@ my C implementation of connect-four game in "palindromic mode"
 <h2>specification (in polish lang):</h2>
 Palindrom to wariant gry znanej jako Connect Four.
 
+
 Gra jest rozgrywana przez dwóch graczy, nazywanych Pierwszym i Drugim, na prostokątnej planszy, ustawionej pionowo, podzielonej na wiersze i kolumny. Każdy gracz ma swój rodzaj piona.
 
 Na początku gry plansza jest pusta. Zaczyna gracz Pierwszy.
