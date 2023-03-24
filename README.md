@@ -54,3 +54,5 @@ To **compile**, type command: **gcc @opcje -DWIERSZE=val1 -DKOLUMNY=val2 -DDLUGO
 **WIERSZE, KOLUMNY, DLUGOSC** - integers from 1 to 26 && DLUGOSC <= min(WIERSZE, KOLUMNY)
 
 To **launch**, type command: **./01**
+
+*specification provided by: MIM UW*
